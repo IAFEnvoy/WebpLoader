@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.iafenvoy.webploader.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "webploader.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "TextureImageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
